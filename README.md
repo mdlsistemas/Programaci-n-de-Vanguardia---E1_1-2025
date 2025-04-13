@@ -1,1 +1,2 @@
-# Programaci-n-de-Vanguardia---E1_1-2025
+# Programacion-de-Vanguardia---E1_1-2025
+Repositorios para las actividades de la materia.

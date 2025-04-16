@@ -1,5 +1,7 @@
 # Actividad 2 - Proyecto Maven con Commons-CLI y Log4j
 
+## Alumno: Joel Natanael Ochoa
+
 ## 📋 Descripción
 Aplicación Java que demuestra:
 - Uso de **Apache Commons CLI** para procesamiento de argumentos por línea de comandos
